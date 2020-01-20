@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ljm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ljm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/ljm.jar!/" />
+    </SOURCES>
+  </library>
+</component>
